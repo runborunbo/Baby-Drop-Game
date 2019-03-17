@@ -1,2 +1,2 @@
 # Baby-Drop-Game
-game for class
+game for class.
